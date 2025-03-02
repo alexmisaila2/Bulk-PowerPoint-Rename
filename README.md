@@ -34,7 +34,7 @@ python rename_and_copy.py
 
 ### 2️⃣ **Run the Error Processing Script**
 
-If files failed to process, this script moves them to the destination folder, maintaining structure.
+If files failed to process, this script moves them (original failed) to the renamed destination folder, maintaining structure.
 
 Run this command:
 ```
