@@ -5,8 +5,8 @@ This repository contains two Python scripts to **rename and organize PowerPoint 
 ## 📌 Features
 
 - ✅ Extracts the first 6 words from slides 1 and 2 to rename files
-- *✅ Slide 1: The first 6 words are used as the song name
-- *✅ Slide 2: The first 6 words are placed in parentheses as the chorus
+- * Slide 1: The first 6 words are used as the song name
+- * Slide 2: The first 6 words are placed in parentheses as the chorus
 - ✅ Removes **diacritics & special characters**
 - ✅ **Maintains folder structure** while copying files
 - ✅ **Handles duplicate names** without overwriting
